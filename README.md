@@ -4,9 +4,9 @@
 
 # 👨‍💻Skill
 ✅ HTML5 / CSS3 </br>
-✅ Web UI Design
-✅ WordPress
-✅ E-commerce
-✅ SEO
+✅ Web UI Design </br>
+✅ WordPress </br>
+✅ E-commerce </br>
+✅ SEO </br>
 
 - 🔭 I’m currently working on Upwork 
