@@ -10,4 +10,4 @@ I am a web designer. WordPress, E-commerce, and SEO Expert. I have Completed ove
 ✅ E-commerce </br>
 ✅ SEO </br>
 
-<a href="https://www.facebook.com/abusayeedakash5/">Facebook</a>
+<a href="https://www.facebook.com/abusayeedakash5/ "target="_blank">Facebook</a>
