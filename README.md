@@ -10,7 +10,7 @@ I am a web designer. WordPress, E-commerce, and SEO Expert. I have Completed ove
 ✅ E-commerce </br>
 ✅ SEO </br>
 
-# 👑Follow
+# 📱Follow
 <a target="_blank" href="https://www.facebook.com/abusayeedakash5/">Facebook</a>
 <a target="_blank" href="https://www.instagram.com/dev_akash123/">Instagram</a>
 <a target="_blank" href="https://www.linkedin.com/in/abu-sayeed-akash/">Linkedin</a>
