@@ -1,7 +1,7 @@
 # Hi, I'm Abu Sayeed Akash
 ### 📍Web Designer
 # 🎯About Me
-I am a web designer. WordPress, E-commerce, and SEO Expert. I have Completed over 10+ Projects for various clients. I have many years of experience designing websites, and I know what you are looking for in a website design. Your new website will be responsive, optimized for SEO, and built with WordPress so that it is easy to maintain. 
+I am a Web Designer. I help people build a Simple and Professional E-commerce and Roofing Service website to grow their Business 3X times. I have many years of experience designing websites, and I know what you are looking for in a website design. Your New or redesigned website will be responsive, optimized for SEO, and built with WordPress so that it is easy to maintain. 
 
 # 👨‍💻Skill
 ✅ HTML5 / CSS3 </br>
@@ -17,4 +17,4 @@ I am a web designer. WordPress, E-commerce, and SEO Expert. I have Completed ove
 
 # 🚩Contact
 WhatsApp: +8801641-495206 </br>
-Email: contact@abusayeedakash.com
+Email: wpakash123@gmail.com
